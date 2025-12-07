@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=h-sumiya&theme=flat&no-frame=true&column=7&margin-w=15" alt="h-sumiya trophies" />
+    <img src="https://github-profile-trophy-mlx5djhlc-h-sumiyas-projects.vercel.app/?username=h-sumiya&theme=flat&no-frame=true&column=7&margin-w=15" alt="h-sumiya trophies" />
   </a>
 </div>
 
