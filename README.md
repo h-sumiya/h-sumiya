@@ -12,6 +12,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h-sumiya&show_icons=true&theme=tokyonight" height="165" alt="h-sumiya's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-sumiya&layout=compact&theme=tokyonight" height="165" alt="h-sumiya's top languages" />
+  <img src="https://github-readme-stats-sepia-zeta-48.vercel.app/api?username=h-sumiya&show_icons=true&theme=tokyonight" height="165" alt="h-sumiya's github stats" />
+  <img src="https://github-readme-stats-sepia-zeta-48.vercel.app/api/top-langs/?username=h-sumiya&layout=compact&theme=tokyonight" height="165" alt="h-sumiya's top languages" />
 </div>
