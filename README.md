@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/h-sumiya/github-profile-trophy-rs">
-    <img src="https://github-profile-trophy.hiro.red/?username=h-sumiya&theme=flat&no-frame=true&column=7&margin-w=15" alt="h-sumiya trophies" />
+    <img src="https://github-profile-trophy.hiro.red/?username=h-sumiya&theme=onedark&column=6" alt="h-sumiya trophies" />
   </a>
 </div>
 
